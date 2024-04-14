@@ -1,0 +1,5 @@
+{
+    "recordViews": {
+        "kanban": "grace-pack:views/lead/record/kanban"
+    }
+}

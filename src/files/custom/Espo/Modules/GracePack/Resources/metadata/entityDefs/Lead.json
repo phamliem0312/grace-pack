@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "bodyImages": {
+            "type": "varchar",
+            "view": "grace-pack:views/fields/body-images",
+            "notStorable": true,
+            "readOnly": true
+        }
+    }
+}

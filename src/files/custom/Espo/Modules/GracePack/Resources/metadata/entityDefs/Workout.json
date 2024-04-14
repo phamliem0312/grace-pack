@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "statusBtn": {
+            "type": "varchar",
+            "view": "grace-pack:views/workout/fields/status-btn",
+            "notStorable": true,
+            "readOnly": true,
+            "layoutDetailDisabled": true
+        }
+    }
+}

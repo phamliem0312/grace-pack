@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "productStockTotal": {
+            "type": "int",
+            "notStorable": true,
+            "readOnly": true,
+            "view": "grace-pack:views/product/fields/product-stock-total"
+        }
+    }
+}
